@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tracy-binary"
-version = "0.1.1"
+version = "0.1.2"
 description = "Binary packaging of the Tracy base caller"
 authors = ["Kevin Schmittle <kevin@schmittle.net>"]
 license = "BSD 3-Clause License"
